@@ -1,0 +1,6 @@
+DOMAIN = "mysmartthings"
+CONF_TOKEN = "token"
+CONF_DEVICES = "devices"
+CONF_DEVICE_ID = "device_id"
+CONF_NAME = "name"
+CONF_UNIQUE_ID = "unique_id"

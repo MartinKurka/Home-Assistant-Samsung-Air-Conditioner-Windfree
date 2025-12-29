@@ -90,8 +90,8 @@ __Swing mode__: Vertical, Horizontal, all, fixed.
 ## Usage
 
 ### Climate entity example
-[climate entity example](images/climate.png)
+![climate entity example](images/climate.png)
 
 
 ### Entity states example
-[climate entity example](images/entity_states.png)
+![climate entity example](images/entity_states.png)
